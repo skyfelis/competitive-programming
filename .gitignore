@@ -1,0 +1,11 @@
+*.out
+*.o
+*.exe
+*.dSYM/
+__pycache__/
+*.py[cod]
+.venv/
+.DS_Store
+
+.vscode/zsh/.zcompdump*
+.vscode/zsh/.zsh_history*

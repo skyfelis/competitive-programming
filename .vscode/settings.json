@@ -1,0 +1,19 @@
+{
+  "terminal.integrated.profiles.osx": {
+    "競プロ (zsh)": {
+      "path": "/bin/zsh",
+      "args": [
+        "-i"
+      ],
+      "env": {
+        "ZDOTDIR": "${workspaceFolder}/.vscode/zsh"
+      }
+    }
+  },
+  "terminal.integrated.defaultProfile.osx": "競プロ (zsh)",
+  "chat.disableAIFeatures": true,
+  "github.copilot.enable": {
+    "*": false
+  },
+  "github.copilot.nextEditSuggestions.enabled": false
+}
