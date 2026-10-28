@@ -1,0 +1,17 @@
+{
+  "C++ main": {
+    "scope": "cpp",
+    "prefix": "cppmain",
+    "body": [
+      "#include <bits/stdc++.h>",
+      "",
+      "using namespace std;",
+      "",
+      "int main()",
+      "{",
+      "    $0",
+      "}"
+    ],
+    "description": "競技プログラミング用のC++ひな形"
+  }
+}
